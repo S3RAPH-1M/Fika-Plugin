@@ -78,10 +78,11 @@ namespace Fika.Core
             { "ghostfenixx",  "keeps asking me to fix bugs ~ TheSparta"                                                     },
             { "thurman",      "aka TwistedGA, helped a lot of new modders, including me when I first started ~ TheSparta"   },
             { "chomp",        "literally unstoppable, carrying SPT development every single day ~ TheSparta"                },
-            { "nimbul",       "Sat with Lacy many night and is loved by both Lacy & me. We miss you <3 ~ SSH"               },
+            { "nimbul",       "Sat with Lacy many nights and is loved by both Lacy & me. We miss you <3 ~ SSH"              },
             { "vox",          "My favourite american. ~ Lacyway"                                                            },
             { "rairai",       "Very nice and caring person, someone I've appreciated getting to know. ~ Lacyway"            },
-            { "cwx",          "Active and dedicated tester who has contributed a lot of good ideas to Fika. ~ Lacyway"       }
+            { "cwx",          "Active and dedicated tester who has contributed a lot of good ideas to Fika. ~ Lacyway"      },
+            { "goose",       "Very cool person that I've gotten to know over the years. Also lead Wiki Manager. ~ SSH"      },
         };
 
         public static Dictionary<string, string> DevelopersList = new()
